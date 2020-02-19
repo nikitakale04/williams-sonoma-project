@@ -3,7 +3,7 @@
 
 ## Installation Instructions
 ### 1. Clone the repo in your local by running the following command:
-git clone https://github.com/nikitakale04/williams-sonoma.git
+git clone https://github.com/nikitakale04/williams-sonoma-project.git
 
 ### 2. Build and Run Unit Tests
 `./mvnw clean verify`
